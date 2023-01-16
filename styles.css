@@ -73,6 +73,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-pawsome:hover {
     background-image: url("images/pawsome.webp");
+    background-size: 400px 400px;
 }
 
 #gift-img-boots:hover {
